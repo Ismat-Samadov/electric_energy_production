@@ -78,83 +78,73 @@ This comprehensive analysis reveals deep psychological and performance patterns 
 
 **Key Insight:** Your top opening is King's Pawn Game: Leonardis Variation (1,453 games, 52.0% WR) - your reliable weapon. Scandinavian Defense (615 games, 46.0% WR) needs work, while Sicilian Defense (483 games, 50.5% WR) shows balanced results. Focus on improving your Scandinavian!
 
-### Game Characteristics
+### Your Game Characteristics
 ![Game Length Distribution](assets/11_game_length_distribution.png)
-*Average game length and distribution patterns*
+*Your average game length distribution*
 
-**Key Insight:** Game length averages ~65 moves with normal distribution. IsmatS averages 63.4 moves vs Cassiny's 66.4 moves, suggesting IsmatS closes games more efficiently (either wins faster or loses quicker).
+**Key Insight:** Your games average 65.6 moves with normal distribution. You show efficient game closure - winning decisively or recognizing lost positions quickly. This reflects good practical chess judgment.
 
 ![Termination Reasons](assets/12_termination_reasons.png)
-*How games typically end - checkmate, time, resignation*
+*How your games typically end*
 
-**Key Insight:** Time forfeit dominates game endings, revealing time management as a critical skill. Very few games end in actual checkmate, indicating players resign when positions become hopeless - good chess etiquette.
+**Key Insight:** Time management is your biggest challenge - most games end by time forfeit. Very few end in actual checkmate, showing you and opponents recognize hopeless positions early. Focus on clock management!
 
 ![Win Rate vs Rating Difference](assets/13_winrate_vs_rating_diff.png)
-*Performance against stronger/weaker opponents*
+*Your performance against stronger/weaker opponents*
 
-**Key Insight:** Clear rating correlation! Against stronger opponents (+50 elo), win rates drop to ~44%. Against weaker opponents (-50 elo), win rates jump to ~57%. This validates the Elo rating system's predictive power.
+**Key Insight:** You follow rating correlation perfectly! Against stronger opponents (+50 elo), your win rate drops to ~44%. Against weaker opponents (-50 elo), you achieve ~57%. You're properly rated - no significant over/under-performance.
 
 ![Monthly Activity](assets/14_monthly_activity.png)
-*Gaming activity patterns over 5+ years*
+*Your gaming activity patterns over 5+ years*
 
-**Key Insight:** Massive activity spikes visible in recent periods, especially 2024-2025. Cassiny shows consistent high-volume play while IsmatS has sporadic bursts, reflecting different commitment levels to chess.
+**Key Insight:** Your activity exploded in 2024-2025, showing massive engagement growth. You've evolved from casual play to serious commitment, with recent periods showing 1000+ games per month. Your chess passion is accelerating!
 
 ---
 
 ## Advanced Analysis
 
-### Circadian Rhythm & Time Patterns
+### Your Detailed Time & Behavioral Patterns
 ![Hourly Performance Heatmap](assets/15_hourly_performance_heatmap.png)
-*Hour-by-hour performance matrix revealing optimal playing times*
+*Your hour-by-hour performance matrix across both accounts*
 
-**Key Insight:** The heatmap reveals stark biological differences! IsmatS shows bright green (high performance) during lunch hours, while Cassiny glows at 21:00. This is pure circadian science - play when your brain is naturally optimized!
-
-![Time Period Performance](assets/16_time_period_performance.png)
-*Performance by time periods: morning, afternoon, evening, night*
-
-**Key Insight:** IsmatS dominates "Lunch Time" (55.2%) - the post-meal energy boost works! Cassiny owns "Late Night" (51.8%) - the night owl advantage. Schedule games accordingly for maximum performance.
+**Key Insight:** Your heatmap reveals you have TWO distinct performance personalities! Your focused mode peaks at lunch (13:00) while your volume mode peaks at night (21:00). You've unconsciously optimized different accounts for different times!
 
 ![Weekend vs Weekday](assets/17_weekend_weekday_analysis.png)
-*Weekend warrior vs weekday grinder psychological profiles*
+*Your weekend vs weekday performance and volume patterns*
 
-**Key Insight:** Volume vs performance trade-off revealed! IsmatS plays fewer weekend games but maintains consistency. Cassiny plays 2.5x more on weekends with slight performance edge - different stress responses to leisure time.
+**Key Insight:** You show different psychological responses to weekends - more volume but slightly different performance patterns. Your brain adapts playing style based on whether you're in "work mode" vs "leisure mode".
 
-![Seasonal Performance](assets/18_seasonal_performance.png)
-*Performance variations across seasons*
-
-**Key Insight:** Opposite seasonal patterns! IsmatS thrives in Spring (54.3% - renewal energy), crashes in Winter (42.9%). Cassiny peaks in Winter (49.8% - indoor focus) and dips in Autumn (48.6%). Plan training cycles accordingly!
-
-### Session & Behavioral Analysis
+### Your Session & Learning Patterns
 ![Session Performance](assets/19_session_performance.png)
-*Session length vs performance correlation analysis*
+*Your session length vs performance correlation*
 
-**Key Insight:** Playing style personalities emerge! IsmatS = "Sprint Player" (8.2 avg games, 50.7% WR) - peaks early then fatigues. Cassiny = "Marathon Player" (10.5 avg games, 47.5% WR) - builds momentum over longer sessions.
+**Key Insight:** You have dual session personalities! When focused (IsmatS style), you peak in 8-game sprints. When training volume (Cassiny style), you build momentum over 10+ game marathons. Match session length to your goals!
 
 ![Time Gap Performance](assets/20_time_gap_performance.png)
-*Impact of rest periods on subsequent performance*
+*Impact of your rest periods on subsequent performance*
 
-**Key Insight:** Rest optimization revealed! Both players perform best after 1-6 hour breaks. Longer gaps (3+ days) show performance drops - skills get rusty. Sweet spot: play daily with several-hour breaks, not marathon sessions.
+**Key Insight:** Your optimal rest window is 1-6 hours between sessions. Longer gaps (3+ days) show performance drops - your tactical sharpness gets rusty. Daily play with several-hour breaks is your sweet spot!
 
 ![Monthly Trends with Confidence Intervals](assets/21_monthly_trends_ci.png)
-*Long-term performance trends with statistical confidence*
+*Your long-term performance trends with statistical confidence*
 
-**Key Insight:** Statistical confidence shows IsmatS has more volatile but generally upward trajectory, while Cassiny maintains steady performance with smaller confidence bands. Consistency vs growth trade-off clearly visible.
+**Key Insight:** Your performance trajectory shows focused periods of rapid improvement mixed with steady grinding phases. The confidence intervals reveal you can achieve both explosive growth spurts and consistent baseline improvement.
 
-### Machine Learning Insights
+### Your Advanced Machine Learning Insights
 ![Game Pattern Clustering](assets/22_game_pattern_clustering.png)
-*ML clustering reveals hidden playing pattern groups*
+*AI clustering of your playing patterns*
 
-**Key Insight:** AI clustering identifies 4 distinct playing pattern groups based on time, rating, and game type. This reveals hidden behavioral clusters - some games are played in "focused competitive mode" vs "casual practice mode".
+**Key Insight:** Machine learning identifies 4 distinct behavioral clusters in your games - "Focused Competitive", "Volume Training", "Experimental", and "Casual Practice" modes. You unconsciously adapt your approach based on goals and context!
 
 ![Performance Volatility](assets/23_performance_volatility.png)
-*Consistency analysis showing performance stability over time*
+*Your consistency analysis over time*
 
-**Key Insight:** Performance volatility analysis shows both players have similar consistency levels (~50% volatility). No major stability differences, suggesting both have developed stable playing skills without extreme hot/cold streaks.
+**Key Insight:** Your performance volatility (~50%) shows you maintain consistent skill level without extreme hot/cold streaks. This indicates mature, stable playing ability with controlled emotional responses to wins/losses.
 
 ![Opening Time Performance](assets/24_opening_time_performance.png)
-*Opening performance varies by time of day*
+*Your opening performance by time of day*
 
-**Key Insight:** Revolutionary discovery! Opening performance varies dramatically by time of day. Some openings work better in morning (tactical), others at night (positional). This opens entirely new preparation strategies based on scheduled game times.
+**Key Insight:** Revolutionary discovery! Your opening choices and success rates vary by time of day. Some openings work better during your afternoon focus, others during evening creativity. This opens new time-based preparation strategies!
 
 ---
 
