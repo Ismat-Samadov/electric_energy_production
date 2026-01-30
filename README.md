@@ -271,6 +271,8 @@ The nations that thrive in the global energy transition will be those that act d
 ## Appendix: Data Overview
 
 **Source:** Table 5.4 - Electricity Production, Azerbaijan (data/005_4.xls)
+**Official Data Source:** State Statistical Committee of the Republic of Azerbaijan
+**URL:** https://www.stat.gov.az/source/balance_fuel/
 **Time Period:** 1913-2024 (111 years)
 **Data Points:** 35 historical records
 **Measurement Unit:** Million kWh
